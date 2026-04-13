@@ -29,12 +29,12 @@ This project is a test automation framework built using Selenium WebDriver with 
 2. Open the project in IDE (Eclipse/IntelliJ)
 3. Update Maven dependencies
 4. Run using:
-   - Right click `TestRunner.java` → Run As → TestNG Test  
+    Right click `TestRunner.java` → Run As → TestNG Test  
    OR  
-   - Run command:  
-     ```
+    Run command  
+     `
      mvn clean test
-     ```
+     `
 
 ## Future Improvements
 - Add more test scenarios (including edge cases)
