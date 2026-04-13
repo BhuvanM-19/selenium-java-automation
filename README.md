@@ -1,9 +1,9 @@
 # Selenium Java Automation Framework
 
-## Overview
+# Overview
 This project is a test automation framework built using Selenium WebDriver with Java. It follows the Page Object Model (POM) design pattern and uses Cucumber for Behavior Driven Development (BDD).
 
-## Features
+# Features
 - Automated test execution for web application
 - Page Object Model (POM) for maintainability
 - Cucumber BDD using .feature files
@@ -11,20 +11,20 @@ This project is a test automation framework built using Selenium WebDriver with 
 - Maven for dependency management and build
 - Basic test reporting (TestNG & Cucumber reports)
 
-## Tech Stack
+# Tech Stack
 - Java
 - Selenium WebDriver
 - Cucumber
 - TestNG
 - Maven
 
-## Framework Structure
+# Framework Structure
 - `features` → Gherkin test scenarios
 - `stepdefinitions` → Step implementation
 - `pages` → Page Object classes
 - `runners` → Test execution control
 
-## How to Run
+# How to Run
 1. Clone the repository
 2. Open the project in IDE (Eclipse/IntelliJ)
 3. Update Maven dependencies
@@ -36,7 +36,7 @@ This project is a test automation framework built using Selenium WebDriver with 
      mvn clean test
      `
 
-## Future Improvements
+# Future Improvements
 - Add more test scenarios (including edge cases)
 - Implement data-driven testing
 - Integrate CI/CD (Jenkins/GitHub Actions)
