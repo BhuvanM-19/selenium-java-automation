@@ -19,6 +19,24 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# --- ADDED TO FIX LANGUAGE STATS ---
+# Maven build output
+/target/
+
+# TestNG default output
+/test-output/
+
+# Cucumber/Reporting output
+/cucumber-reports/
+/reports/
+
+# IDE specific files
+.settings/
+.project/
+.classpath/
+*.iml
+.idea/
