@@ -1,0 +1,5 @@
+com\swaglabs\pages\ProductsPage.class
+com\swaglabs\stepdefinitions\LoginSteps.class
+com\swaglabs\pages\LoginPage.class
+com\swaglabs\runners\TestRunner.class
+com\swaglabs\stepdefinitions\AddToCartSteps.class
